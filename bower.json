@@ -1,0 +1,22 @@
+{
+  "name": "Example way of testing shit",
+  "version": "1.0.1",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.3.9",
+    "angular-route": "~1.3.9",
+    "angular-resource": "~1.3.9"
+  },
+  "devDependencies": {
+    "jasmine": "~2.1.3",
+    "angular-seed": "*"
+  }
+}
