@@ -1,0 +1,38 @@
+{
+  "name": "angularteststuff",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-jasmine-runner": "^0.6.0",
+    "karma-chrome-launcher": "^0.1.7",
+    "jasmine-core": "^2.1.3",
+    "karma": "^0.12.31",
+    "karma-jasmine": "^0.3.5",
+    "karma-junit-reporter": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/somepbsemployee/angularteststuff.git"
+  },
+  "keywords": [
+    "something",
+    "else",
+    "and",
+    "meh"
+  ],
+  "author": "Shaun Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somepbsemployee/angularteststuff/issues"
+  },
+  "homepage": "https://github.com/somepbsemployee/angularteststuff"
+}
